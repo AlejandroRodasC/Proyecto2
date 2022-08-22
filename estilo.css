@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+.campo{
+    border: 0;
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    font-family: "Press Start 2P" ,sans-serif
+   
+}
+body{
+    background-color: #ebf3f3;
+
+}
+h1{
+    font-family: "Yeseva One" ,sans-serif;
+    color:#007ccc;
+    font-size: 50px;
+}
+.contenedor{
+    padding-left: 40%;
+    padding-top: 10%;
+    border-radius: 30px;
+    width: 250px;
+    height: 200px;
+    
+}
+.disminuir{ 
+    border-radius: 3px;
+    font-family:"IBM Plex Mono", sans-serif;
+    background-color: #ebf3f3;
+    color: red;
+    border-color: red;
+}
+
+.resetear{ 
+    border-radius: 3px;
+    color: gray;
+    font-family:"IBM Plex Mono", sans-serif;
+    background-color: #ebf3f3;
+}
+
+.aumentar{ 
+    border-radius: 3px;
+    color: green;
+    font-family:"IBM Plex Mono", sans-serif;
+    background-color: #ebf3f3;
+    border-color: green;
+}
+
